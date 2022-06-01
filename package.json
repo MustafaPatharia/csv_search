@@ -1,0 +1,28 @@
+{
+  "name": "csv_search",
+  "version": "1.0.0",
+  "description": "Script to search value in CSV with arguments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MustafaPatharia/csv_search.git"
+  },
+  "keywords": [
+    "csv",
+    "search",
+    "nodejs",
+    "command-line"
+  ],
+  "author": "Mustafa Patharia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MustafaPatharia/csv_search/issues"
+  },
+  "homepage": "https://github.com/MustafaPatharia/csv_search#readme",
+  "dependencies": {
+    "papaparse": "^5.3.2"
+  }
+}
